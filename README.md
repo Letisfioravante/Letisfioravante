@@ -34,4 +34,5 @@
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/leticia-fioravante-trist%C3%A3o-a06548332/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lefiotristao@gmail.com)
 </div>
